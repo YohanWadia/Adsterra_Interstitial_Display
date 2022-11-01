@@ -1,6 +1,6 @@
 {
-    "name": "webview_adsterra_interstitial",
-    "short_name": "webview_adsterra_interstitial",
+    "name": "webviews_adsterra_interstitial",
+    "short_name": "webviews_adsterra_interstitial",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
