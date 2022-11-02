@@ -16874,7 +16874,7 @@ EV:function EV(a,b,c,d){var _=this
 _.d=a
 _.e=b
 _.f=c
-_.a=_.w=_.r=null
+_.a=_.x=_.w=_.r=null
 _.b=d
 _.c=null},
 a_1:function a_1(a){this.a=a},
@@ -51709,8 +51709,8 @@ A.qy.prototype={
 au(){var s=t.DU
 return new A.EV(new A.bQ(null,s),new A.bQ(null,s),new A.bQ(null,s),B.l)}}
 A.EV.prototype={
-L(a){var s=this,r=null,q="https://maddening-hungry-delivery.glitch.me/pg2.html",p="* * * * * * CONTINUING * * * * * * *",o=s.d,n=t.F
-return new A.rw(new A.oK(B.Ix,new A.FQ(r,r,1/0,56),r),A.a7h(!0,A.a7d(A.a([new A.xU(1,B.kh,A.a5F(A.a([new A.e_(B.kg,A.BZ("This could be any random text... may be a lot of if... \n again and again \n and more and more",A.b7(a).RG.e),r),A.oZ(A.p9(r,A.a3g(A.Cm(r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,A.i0(q)),o,new A.a_0(s),new A.a_1(s)),r,r,125,r,r,725),r,r),new A.e_(B.ag,A.BZ("* ****** * * * * CONTINUING * * * * * ****** *",A.b7(a).RG.e),r),new A.e_(B.ag,A.BZ(p,A.b7(a).RG.e),r),A.oZ(A.p9(r,A.a3g(A.Cm(r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,A.i0(q)),s.e,new A.a_2(s),new A.a_3(s)),r,r,180,r,r,600),r,r),new A.e_(B.kg,A.BZ("The Blog continues with lots & lots of text",A.b7(a).RG.e),r),new A.e_(B.ag,A.BZ(p,A.b7(a).RG.e),r)],n),B.ez),r),A.a5F(A.a([A.oZ(A.p9(r,A.a3g(A.Cm(r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,A.i0(q)),o,new A.a_4(s),new A.a_5(s)),r,r,625,r,r,175),r,r)],n),B.ez)],n),B.dV,B.eA),!0),r)}}
+L(a){var s=this,r=null,q="https://maddening-hungry-delivery.glitch.me/pg2.html",p="* * * * * * CONTINUING * * * * * * *",o=t.F
+return new A.rw(new A.oK(B.Ix,new A.FQ(r,r,1/0,56),r),A.a7h(!0,A.a7d(A.a([new A.xU(1,B.kh,A.a5F(A.a([new A.e_(B.kg,A.BZ("This could be any random text... may be a lot of if... \n again and again \n and more and more",A.b7(a).RG.e),r),A.oZ(A.p9(r,A.a3g(A.Cm(r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,A.i0(q)),s.d,new A.a_0(s),new A.a_1(s)),r,r,125,r,r,725),r,r),new A.e_(B.ag,A.BZ("* ****** * * * * CONTINUING * * * * * ****** *",A.b7(a).RG.e),r),new A.e_(B.ag,A.BZ(p,A.b7(a).RG.e),r),A.oZ(A.p9(r,A.a3g(A.Cm(r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,A.i0(q)),s.e,new A.a_2(s),new A.a_3(s)),r,r,180,r,r,600),r,r),new A.e_(B.kg,A.BZ("The Blog continues with lots & lots of text",A.b7(a).RG.e),r),new A.e_(B.ag,A.BZ(p,A.b7(a).RG.e),r)],o),B.ez),r),A.a5F(A.a([A.oZ(A.p9(r,A.a3g(A.Cm(r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,A.i0(q)),s.f,new A.a_4(s),new A.a_5(s)),r,r,625,r,r,175),r,r)],o),B.ez)],o),B.dV,B.eA),!0),r)}}
 A.a_1.prototype={
 $1(a){this.a.r=a},
 $S:55}
@@ -51742,14 +51742,14 @@ return A.C(null,r)}})
 return A.D($async$$2,r)},
 $S:52}
 A.a_5.prototype={
-$1(a){this.a.r=a},
+$1(a){this.a.x=a},
 $S:55}
 A.a_4.prototype={
 $2(a,b){return this.DT(a,b)},
 DT(a,b){var s=0,r=A.E(t.H),q=this,p
 var $async$$2=A.F(function(c,d){if(c===1)return A.B(d,r)
 while(true)switch(s){case 0:A.bZ(".......")
-p=q.a.r
+p=q.a.x
 s=2
 return A.H(p==null?null:p.f2("document.getElementById('img2').style.display='none'; document.getElementById('img1').style.display='none';"),$async$$2)
 case 2:A.bZ("xxxxxxx")
